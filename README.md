@@ -4,8 +4,9 @@ It is a ML  project with a Flask app for user interface
 
 Implementation Demo
 
-![image](https://github.com/Nngm123/SMS-Spam-Classifier/assets/142177082/35aa4cc8-e658-457f-afe2-196550c5d5ce)
-![image](https://github.com/Nngm123/SMS-Spam-Classifier/assets/142177082/dede5dce-0d18-4145-8d4a-c112d8f71b39)
+![image](https://github.com/Nngm123/SMS-Spam-Classifier/assets/142177082/fcbcee8e-542c-433f-93b7-2a3f486b6ea3)
+![image](https://github.com/Nngm123/SMS-Spam-Classifier/assets/142177082/e810886a-8218-477d-ab59-18f1a95a3991)
+
 
 
 
