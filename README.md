@@ -1,6 +1,6 @@
 # SMS-Spam-Classifier
 
-It is a ML learning project with a Flask app for user interface
+It is a ML  project with a Flask app for user interface
 
 Implementation Demo
 
